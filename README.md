@@ -6,7 +6,7 @@ Code examples for learning selenium in python
 * Selenium Python
 * Chromedriver
 
-### Install Libraries
+### Install libraries
 Run this command on terminal: `pip install -r requirements.txt`
 
 ### Get chromedriver
