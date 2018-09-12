@@ -21,4 +21,4 @@ def assert_alert_present():
         raise AssertionError('There is no alert present')
 
 # Run this script
-# python _055_alerts.py
+# python 055_alerts.py

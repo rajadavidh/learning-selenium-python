@@ -80,4 +80,4 @@ def my_walmart_test():
 my_walmart_test()
 
 # Run this script
-# python _057_multiple_window.py
+# python 057_multiple_window.py

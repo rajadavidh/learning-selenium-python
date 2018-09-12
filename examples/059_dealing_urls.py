@@ -57,4 +57,4 @@ print link_url
 
 
 # Run this script
-# python _059_dealing_urls.py
+# python 059_dealing_urls.py

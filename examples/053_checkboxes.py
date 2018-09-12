@@ -52,4 +52,4 @@ print is_checkbox_selected(my_check_box)
 assert_checkbox_is_enabled(my_check_box)
 
 # Run this script
-# python _053_checkboxes.py
+# python 053_checkboxes.py

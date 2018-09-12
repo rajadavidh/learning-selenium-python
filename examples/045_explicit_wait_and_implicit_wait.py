@@ -23,4 +23,4 @@ open_summary.click()
 print('berhasil')
 
 # Run this script
-# python _045_explicit_wait_and_implicit_wait.py
+# python 045_explicit_wait_and_implicit_wait.py

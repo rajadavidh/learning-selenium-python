@@ -18,4 +18,4 @@ text_value = driver.find_element('xpath', '//*[@id="about"]/a')
 print text_value.text
 
 # Run this script
-# python _042_locating_elements_by_xpath.py
+# python 042_locating_elements_by_xpath.py

@@ -97,4 +97,4 @@ assert_element_exists('id', 'navbtn_tutorials')
 find_and_assert_element_visible('id', 'navbtn_tutorials')
 
 # Run this script
-# python _046_verify_element_exists.py
+# python 046_verify_element_exists.py

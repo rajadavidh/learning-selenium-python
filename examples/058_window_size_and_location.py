@@ -30,4 +30,4 @@ driver.maximize_window()
 # print position
 
 # Run this script
-# python _058_window_size_and_location.py
+# python 058_window_size_and_location.py

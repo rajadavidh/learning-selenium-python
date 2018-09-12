@@ -90,4 +90,4 @@ assert_number_of_rows_in_table(table, 7)
 assert_col_in_row_contains_text(table, 'UK', row_number=4, col_number=2)
 
 # Run this script
-# python _050_051_Tables.py
+# python 050_051_Tables.py

@@ -55,4 +55,4 @@ print '=========================================='
 
 
 # Run this script
-# python _047_getting_element_text.py
+# python 047_getting_element_text.py

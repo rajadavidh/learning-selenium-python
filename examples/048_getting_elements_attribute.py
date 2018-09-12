@@ -48,4 +48,4 @@ sel_image_src = sel_image.get_attribute('src')
 print sel_image_src
 
 # Run this script
-# python _048_getting_elements_attribute.py
+# python 048_getting_elements_attribute.py

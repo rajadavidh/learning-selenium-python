@@ -58,4 +58,4 @@ print type(my_radio)
 select_radio_by_value(my_radio, 'value_element(cth: 30-40)')
 
 # Run this script
-# python _054_radios.py
+# python 054_radios.py

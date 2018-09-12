@@ -58,4 +58,4 @@ name_field = browser.find_element_by_name('email')
 name_field.send_keys('test multiple')
 
 # Run this script
-# python _060_url_in_new_window.py
+# python 060_url_in_new_window.py

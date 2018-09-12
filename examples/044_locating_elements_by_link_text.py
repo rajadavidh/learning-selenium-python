@@ -25,4 +25,4 @@ element.click()
 # print element.text
 
 # Run this script
-# python _044_locating_elements_by_link_text.py
+# python 044_locating_elements_by_link_text.py
